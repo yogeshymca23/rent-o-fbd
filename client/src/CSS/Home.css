@@ -1,0 +1,48 @@
+
+.container-main {
+    position: relative;
+    background-image: url("../img/main-bg-5.jpg");
+    
+
+    min-height: 500px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin: 2rem 5rem;
+    border-radius: 4px;
+}
+.container-card{
+    background-color:#aaaa9f !important ;
+    border-radius: 6px;
+    
+}
+
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 1,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
+}
+.center {
+    display: flex;
+    justify-content: center;
+
+}
+.card-head-2{
+    background-color: white;
+    border-radius: 6px;
+}
+.card-box-2{
+    /* border-style:  dashed ;
+    border-width: 1px; */
+    background-color: white;
+    border-radius: 6px;
+}
+.carousel{
+    border-radius: 6px;
+}
+
+
